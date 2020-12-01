@@ -10,7 +10,7 @@ namespace Assignment_1
     public class Employee
     {
         #region DataMembers
-        // Data members
+        // data members
         private int empNo;
         private string empName;
         private decimal basic;
@@ -21,14 +21,14 @@ namespace Assignment_1
         // Static data member
         public static int cnt = 1;
         #endregion
-        
+
         #region constructor
         // Parameterised constructor
-        public Employee(string empName = null, decimal basic = 0, short deptNo = 0)
+        public Employee(string EMPNAME = null, decimal BASIC = 0, short DEPTNO = 0)
         {
-            this.empName = empName;
-            this.basic = basic;
-            this.deptNo = deptNo;
+            this.EMPNAME = EMPNAME;
+            this.BASIC = BASIC;
+            this.DEPTNO = DEPTNO;
             //empNo = Employee.EMPNO;
             empNo = cnt++;
         }
@@ -37,9 +37,9 @@ namespace Assignment_1
         #region Properties
         public int EMPNO
         {
-            get 
+            get
             {
-                return empNo;            
+                return empNo;
             }
         }
 
@@ -47,10 +47,10 @@ namespace Assignment_1
         {
             set
             {
-                if (value == null)
-                    Console.WriteLine("Name is Mandetory !!!");
-                else
+                if (value != null)
                     empName = value;
+                else
+                    Console.WriteLine("Name is Mandetory !!!");
             }
 
             get
@@ -63,7 +63,7 @@ namespace Assignment_1
         {
             set
             {
-                if (value > 15000 && value < 50000)
+                if (value > 25000)
                     basic = value;
                 else
                     Console.WriteLine("Invalid Basic Salary !!!");
@@ -74,7 +74,6 @@ namespace Assignment_1
                 return basic;
             }
         }
-
         public short DEPTNO
         {
             set
@@ -110,34 +109,43 @@ namespace Assignment_1
     {
         static void Main(string[] args)
         {
-            //Employee e = new Employee("Shankar",20000,101);
+            //Employee e = new Employee("Shankar", 35000, 101);
             //e.Display();
-            //Employee e1 = new Employee("Lad", 20000, 102);
+            //Console.WriteLine();
+            //Employee e1 = new Employee("Lad", 40000);
             //e1.Display();
-            //Employee e2 = new Employee("Shanky",20000,103);
+            //Console.WriteLine();
+            //Employee e2 = new Employee(null,20000, 103);
             //e2.Display();
-
+            //Console.WriteLine();
+            //Employee e3 = new Employee("Shanky", 103);
+            //e3.Display();
 
             Employee o1 = new Employee("Amol", 123465, 10);
-            Employee o2 = new Employee("Amol", 123465,0);
+            Console.WriteLine();
+            Employee o2 = new Employee("Amol", 123465);
+            Console.WriteLine();
             Employee o3 = new Employee("Amol");
+            Console.WriteLine();
             Employee o4 = new Employee();
 
+            //Employee o1 = new Employee();
+            //Employee o2 = new Employee();
+            //Employee o3 = new Employee();
+
             Console.WriteLine(o1.EMPNO);
             Console.WriteLine(o2.EMPNO);
             Console.WriteLine(o3.EMPNO);
-            Console.WriteLine(o4.EMPNO);
+          //  Console.WriteLine(o4.EMPNO);
 
-            Console.WriteLine();
-
-            Console.WriteLine(o4.EMPNO);
             Console.WriteLine(o3.EMPNO);
             Console.WriteLine(o2.EMPNO);
             Console.WriteLine(o1.EMPNO);
+          //  Console.WriteLine(o4.EMPNO);
 
             Console.ReadLine();
         }
     }
 
-   
+
 }
