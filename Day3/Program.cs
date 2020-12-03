@@ -4,17 +4,26 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assignment_2
+namespace Assignmet__2
 {
 
-    public abstract class Employee
+     public abstract class Employee
     {
         private int empNo;
         private string empName;
         private short deptNo;
-        private decimal basic;
+        protected decimal basic;
         
         private static int lastEmpNo = 1;
+
+        public Employee(string EmpName = null, short DeptNo = 0, decimal Basic = 0)
+        {
+            this.EmpName = EmpName;
+            this.DeptNo = DeptNo;
+            this.Basic = Basic;
+            EmpNo = lastEmpNo++;
+        }
+
 
         public int EmpNo
         {
@@ -52,27 +61,18 @@ namespace Assignment_2
             get;
         }
 
-        public Employee(string EmpName = null,short DeptNo = 0,decimal Basic = 0)
-        {
-            EmpNo = lastEmpNo++;
-            this.EmpName = EmpName;
-            this.DeptNo = DeptNo;
-            this.Basic = Basic;
-        }
-
         public abstract decimal CalcNetSalary();
-
-        //public override string ToString()
-        //{
-        //    return EmpNo + " " + EmpName + " " + DeptNo;
-        //}
 
     }
 
     public class Manager : Employee
     {
-        private string designation;
+        public Manager(string EmpName = null, short DeptNo = 0, decimal Basic = 0, string Designation = null) : base(EmpName, DeptNo, Basic)
+        {
+            this.Designation = Designation;
+        }
 
+        private string designation;
         public string Designation
         {
             set
@@ -87,22 +87,20 @@ namespace Assignment_2
                 return designation;
             }
         }
+        
         public override decimal Basic
-        { 
+        {
             set
             {
-                if (value > 20000)
-                    Basic = value;
+                if (value > 20000 && value < 50000)
+                    basic = value;
                 else
                     Console.WriteLine("Invalid Salary !!!");
             }
-            get { return Basic; }
-        }
 
-        public Manager(string EmpName = null, short DeptNo = 0, decimal Basic = 0,string Designation = null):base(EmpName,DeptNo,Basic)
-        {
-            this.Designation = Designation;
+            get { return basic; }
         }
+      
 
         public override decimal CalcNetSalary()
         {
@@ -110,12 +108,8 @@ namespace Assignment_2
             sal = Basic + 5000;
             return sal;
         }
-
-        //public override string ToString()
-        //{
-        //    return base.ToString() + " " + Designation + " " +CalcNetSalary();
-        //}
     }
+
 
     public class GeneralManager : Manager
     {
@@ -130,22 +124,24 @@ namespace Assignment_2
         {
             set
             {
-                if (value > 30000)
-                    Basic = value;
+                if (value > 50000 && value < 100000)
+                    basic = value;
                 else
                     Console.WriteLine("Invalid Salary !!!");
             }
-            get { return Basic; }
+            get { return basic; }
         }
 
-        public GeneralManager(string EmpName = null, short DeptNo = 0, decimal Basic = 0, string Designation = null,string Perks = null): base(EmpName, DeptNo, Basic, Designation)
+        public GeneralManager(string EmpName = null, short DeptNo = 0, decimal Basic = 0, string Designation = null, string Perks = null) : base(EmpName, DeptNo, Basic,Designation)
         {
             this.Perks = Perks;
         }
 
         public override decimal CalcNetSalary()
         {
-            return base.CalcNetSalary() + 10000;
+            decimal sal;
+            sal = Basic + 10000;
+            return sal;
         }
     }
 
@@ -156,16 +152,16 @@ namespace Assignment_2
             set
             {
                 if (value > 100000)
-                    Basic = value;
+                    basic = value;
                 else
                     Console.WriteLine("Invalid Salary !!!");
             }
-            get { return Basic; }
+            get { return basic; }
         }
 
-        public CEO(string EmpName = null, short DeptNo = 0, decimal Basic = 0) : base(EmpName,DeptNo,Basic)
+        public CEO(string EmpName = null, short DeptNo = 0, decimal Basic = 0) : base(EmpName, DeptNo,Basic)
         {
-
+            this.Basic = Basic;
         }
 
         public sealed override decimal CalcNetSalary()
@@ -174,19 +170,25 @@ namespace Assignment_2
             sal = Basic + 20000;
             return sal;
         }
-
-        //public override string ToString()
-        //{
-        //    return base.ToString() + " " + CalcNetSalary();
-        //}
     }
 
     class Program
     {
         static void Main(string[] args)
         {
-            CEO o = new CEO("Shankar",101,110000);
-            Console.WriteLine(o.EmpNo + " " + o.EmpName + " " + o.DeptNo + o.CalcNetSalary());
+            // Manager
+            //Manager o = new Manager("shankar",101,15000,"SM");
+            Manager o = new Manager("shankar", 101, 25000, "SM");
+            Console.WriteLine(o.EmpNo + " " + o.EmpName + " " + o.DeptNo + " " + o.Designation + " " + o.Basic + " " + o.CalcNetSalary());
+
+            //GeneralManager o1 = new GeneralManager("Shankar", 102, 15000, "GM", "ALL");
+            GeneralManager o1 = new GeneralManager("Shankar", 102,55000, "GM", "ALL");
+            Console.WriteLine(o1.EmpNo + " " + o1.EmpName + " " + o1.DeptNo + " " + o1.Designation + " " + o1.Basic + " " + o1.Perks + " " + o1.CalcNetSalary());
+
+            //CEO o2 = new CEO("shankar",103,80000);
+            CEO o2 = new CEO("shankar", 103,110000);
+            Console.WriteLine(o2.EmpNo + " " + o2.EmpName + " " + o2.DeptNo + " "+ o2.Basic + " " + o2.CalcNetSalary());
+
             Console.ReadLine();
         }
     }
