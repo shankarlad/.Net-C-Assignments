@@ -1,0 +1,7 @@
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day6\Assignment_4.3\bin\Debug\Assignment_4.3.exe.config
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day6\Assignment_4.3\bin\Debug\Assignment_4.3.exe
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day6\Assignment_4.3\bin\Debug\Assignment_4.3.pdb
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day6\Assignment_4.3\obj\Debug\Assignment_4.3.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day6\Assignment_4.3\obj\Debug\Assignment_4.3.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day6\Assignment_4.3\obj\Debug\Assignment_4.3.exe
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day6\Assignment_4.3\obj\Debug\Assignment_4.3.pdb

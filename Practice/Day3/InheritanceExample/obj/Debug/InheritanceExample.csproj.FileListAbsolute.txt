@@ -1,0 +1,7 @@
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day3\InheritanceExample\bin\Debug\InheritanceExample.exe.config
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day3\InheritanceExample\bin\Debug\InheritanceExample.exe
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day3\InheritanceExample\bin\Debug\InheritanceExample.pdb
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day3\InheritanceExample\obj\Debug\InheritanceExample.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day3\InheritanceExample\obj\Debug\InheritanceExample.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day3\InheritanceExample\obj\Debug\InheritanceExample.exe
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day3\InheritanceExample\obj\Debug\InheritanceExample.pdb

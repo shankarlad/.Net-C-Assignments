@@ -1,0 +1,7 @@
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day3\Assignment_2\obj\Debug\Assignment_2.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day3\Assignment_2\obj\Debug\Assignment_2.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day3\Assignment_2\bin\Debug\Assignment_2.exe.config
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day3\Assignment_2\bin\Debug\Assignment_2.exe
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day3\Assignment_2\bin\Debug\Assignment_2.pdb
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day3\Assignment_2\obj\Debug\Assignment_2.exe
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day3\Assignment_2\obj\Debug\Assignment_2.pdb

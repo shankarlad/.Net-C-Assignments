@@ -1,0 +1,7 @@
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day2\ClassBasics\bin\Debug\ClassBasics.exe.config
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day2\ClassBasics\bin\Debug\ClassBasics.exe
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day2\ClassBasics\bin\Debug\ClassBasics.pdb
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day2\ClassBasics\obj\Debug\ClassBasics.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day2\ClassBasics\obj\Debug\ClassBasics.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day2\ClassBasics\obj\Debug\ClassBasics.exe
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day2\ClassBasics\obj\Debug\ClassBasics.pdb

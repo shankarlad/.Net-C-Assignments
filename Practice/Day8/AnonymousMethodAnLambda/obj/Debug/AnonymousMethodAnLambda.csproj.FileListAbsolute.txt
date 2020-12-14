@@ -1,0 +1,7 @@
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day8\AnonymousMethodAnLambda\bin\Debug\AnonymousMethodAnLambda.exe.config
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day8\AnonymousMethodAnLambda\bin\Debug\AnonymousMethodAnLambda.exe
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day8\AnonymousMethodAnLambda\bin\Debug\AnonymousMethodAnLambda.pdb
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day8\AnonymousMethodAnLambda\obj\Debug\AnonymousMethodAnLambda.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day8\AnonymousMethodAnLambda\obj\Debug\AnonymousMethodAnLambda.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day8\AnonymousMethodAnLambda\obj\Debug\AnonymousMethodAnLambda.exe
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day8\AnonymousMethodAnLambda\obj\Debug\AnonymousMethodAnLambda.pdb

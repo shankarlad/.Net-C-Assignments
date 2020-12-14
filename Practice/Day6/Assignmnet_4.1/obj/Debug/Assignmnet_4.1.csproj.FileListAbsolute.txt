@@ -1,0 +1,7 @@
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day6\Assignmnet_4.1\obj\Debug\Assignmnet_4.1.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day6\Assignmnet_4.1\obj\Debug\Assignmnet_4.1.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day6\Assignmnet_4.1\bin\Debug\Assignmnet_4.1.exe.config
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day6\Assignmnet_4.1\bin\Debug\Assignmnet_4.1.exe
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day6\Assignmnet_4.1\bin\Debug\Assignmnet_4.1.pdb
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day6\Assignmnet_4.1\obj\Debug\Assignmnet_4.1.exe
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day6\Assignmnet_4.1\obj\Debug\Assignmnet_4.1.pdb

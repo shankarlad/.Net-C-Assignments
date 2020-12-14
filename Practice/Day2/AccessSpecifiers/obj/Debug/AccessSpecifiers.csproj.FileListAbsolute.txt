@@ -1,0 +1,6 @@
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day2\AccessSpecifiers\bin\Debug\AccessSpecifiers.dll
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day2\AccessSpecifiers\bin\Debug\AccessSpecifiers.pdb
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day2\AccessSpecifiers\obj\Debug\AccessSpecifiers.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day2\AccessSpecifiers\obj\Debug\AccessSpecifiers.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day2\AccessSpecifiers\obj\Debug\AccessSpecifiers.dll
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day2\AccessSpecifiers\obj\Debug\AccessSpecifiers.pdb

@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day2\InheritanceExample\bin\Debug\InheritanceExample.exe.config
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day2\InheritanceExample\bin\Debug\InheritanceExample.exe
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day2\InheritanceExample\bin\Debug\InheritanceExample.pdb
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day2\InheritanceExample\bin\Debug\AccessSpecifiers.dll
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day2\InheritanceExample\bin\Debug\AccessSpecifiers.pdb
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day2\InheritanceExample\obj\Debug\InheritanceExample.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day2\InheritanceExample\obj\Debug\InheritanceExample.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day2\InheritanceExample\obj\Debug\InheritanceExample.csproj.CopyComplete
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day2\InheritanceExample\obj\Debug\InheritanceExample.exe
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day2\InheritanceExample\obj\Debug\InheritanceExample.pdb

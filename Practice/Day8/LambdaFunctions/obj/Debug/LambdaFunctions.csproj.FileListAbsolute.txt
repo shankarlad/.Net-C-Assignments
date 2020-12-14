@@ -1,0 +1,7 @@
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day8\LambdaFunctions\bin\Debug\LambdaFunctions.exe.config
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day8\LambdaFunctions\bin\Debug\LambdaFunctions.exe
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day8\LambdaFunctions\bin\Debug\LambdaFunctions.pdb
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day8\LambdaFunctions\obj\Debug\LambdaFunctions.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day8\LambdaFunctions\obj\Debug\LambdaFunctions.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day8\LambdaFunctions\obj\Debug\LambdaFunctions.exe
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day8\LambdaFunctions\obj\Debug\LambdaFunctions.pdb

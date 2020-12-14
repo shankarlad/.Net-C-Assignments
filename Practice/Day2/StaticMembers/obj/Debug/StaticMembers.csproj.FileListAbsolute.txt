@@ -1,0 +1,7 @@
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day2\StaticMembers\bin\Debug\StaticMembers.exe.config
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day2\StaticMembers\bin\Debug\StaticMembers.exe
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day2\StaticMembers\bin\Debug\StaticMembers.pdb
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day2\StaticMembers\obj\Debug\StaticMembers.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day2\StaticMembers\obj\Debug\StaticMembers.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day2\StaticMembers\obj\Debug\StaticMembers.exe
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\Day2\StaticMembers\obj\Debug\StaticMembers.pdb
