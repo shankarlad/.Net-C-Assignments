@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\LinqToSqlQuery\LinqToSqlQuery\bin\Debug\LinqToSqlQuery.exe.config
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\LinqToSqlQuery\LinqToSqlQuery\bin\Debug\LinqToSqlQuery.exe
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\LinqToSqlQuery\LinqToSqlQuery\bin\Debug\LinqToSqlQuery.pdb
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\LinqToSqlQuery\LinqToSqlQuery\obj\Debug\LinqToSqlQuery.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\LinqToSqlQuery\LinqToSqlQuery\obj\Debug\MainWindow.g.cs
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\LinqToSqlQuery\LinqToSqlQuery\obj\Debug\App.g.cs
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\LinqToSqlQuery\LinqToSqlQuery\obj\Debug\LinqToSqlQuery_MarkupCompile.cache
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\LinqToSqlQuery\LinqToSqlQuery\obj\Debug\LinqToSqlQuery_MarkupCompile.lref
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\LinqToSqlQuery\LinqToSqlQuery\obj\Debug\MainWindow.baml
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\LinqToSqlQuery\LinqToSqlQuery\obj\Debug\LinqToSqlQuery.g.resources
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\LinqToSqlQuery\LinqToSqlQuery\obj\Debug\LinqToSqlQuery.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\LinqToSqlQuery\LinqToSqlQuery\obj\Debug\LinqToSqlQuery.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\LinqToSqlQuery\LinqToSqlQuery\obj\Debug\LinqToSqlQuery.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\LinqToSqlQuery\LinqToSqlQuery\obj\Debug\LinqToSqlQuery.exe
+C:\Users\HP\OneDrive\Desktop\.Net\Practice\LinqToSqlQuery\LinqToSqlQuery\obj\Debug\LinqToSqlQuery.pdb
